@@ -100,12 +100,12 @@ const Hero = () => {
           <div className="space-y-6">
             {/* Work Experience */}
             <div className="glass-card p-6 animate-fade-in" style={{ animationDelay: "0.4s" }}>
-              <h2 className="font-display text-xl font-bold text-foreground mb-4">Work Experience as freelancer</h2>
+              <h2 className="font-display text-xl font-bold text-foreground mb-4">Work Experience as Intern</h2>
               <div className="space-y-4">
                 {[
-                  { year: "2024-Present", tech: "React JS", role: "Frontend Developer", color: "from-cyan-400 to-blue-500" },
-                  { year: "2024-Present", tech: "Node.js", role: "Backend Developer", color: "from-green-400 to-emerald-500" },
-                  { year: "2023-Present", tech: "JavaScript", role: "Frontend Developer", color: "from-yellow-400 to-orange-500" },
+                  { year: "2025-2026", tech: "React JS", role: "Frontend Developer", color: "from-cyan-400 to-blue-500" },
+                  { year: "2025-2026", tech: "Node.js", role: "Backend Developer", color: "from-green-400 to-emerald-500" },
+                  // { year: "2023-Present", tech: "JavaScript", role: "Frontend Developer", color: "from-yellow-400 to-orange-500" },
                 ].map((exp, idx) => (
                   <div key={idx} className="flex items-center gap-4 p-3 rounded-xl bg-secondary/50 hover:bg-secondary transition-colors">
                     <span className="text-xs text-muted-foreground w-24">{exp.year}</span>
