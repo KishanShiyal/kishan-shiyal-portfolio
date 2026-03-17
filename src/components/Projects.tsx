@@ -10,14 +10,14 @@ const projects = [
     liveUrl: "#",
     githubUrl: "#",
   },
-  {
-    title: "Library Management Syatem",
-    description: "A library management project involves creating a system to efficiently manage library resources, including books, journals, periodicals, and other materials, as well as member information and borrowing transactions.",
-    image: "/Library.png",
-    tags: ["PHP", "HTML", "CSS", "JavaScript", "Bootstrap", "MySQL"],
-    liveUrl: "#",
-    githubUrl: "#",
-  },
+  // {
+  //   title: "Library Management Syatem",
+  //   description: "A library management project involves creating a system to efficiently manage library resources, including books, journals, periodicals, and other materials, as well as member information and borrowing transactions.",
+  //   image: "/Library.png",
+  //   tags: ["PHP", "HTML", "CSS", "JavaScript", "Bootstrap", "MySQL"],
+  //   liveUrl: "#",
+  //   githubUrl: "#",
+  // },
   {
     title: "Cafe Management System",
     description: "The Brew & Bite Café Management System is to design and develop an interactive,user-friendly web platform that streamlines the management and operation of a cafe.",
